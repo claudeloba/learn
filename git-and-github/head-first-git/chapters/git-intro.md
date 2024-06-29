@@ -10,7 +10,7 @@ Detta betyder att vi har 3 olika kopior av vår fil.
 
 En i vårt working directory, en i vårt index, och en i vårt commit object.
 
-![Untitled](img/git-intro/Untitled.png)
+![Untitled](../img/git-intro/Untitled.png)
 
 När vi commitat en fil så kommer git att jämföra kopian i sitt commit object med samma fil i vår index. Den kommer även jämföra vår kopia i index med vår fil i vår working directory.
 
@@ -44,7 +44,7 @@ Alla dina commits kan alltså länkas ihop som ett träd.
 
 Detta kallas för vår commit history, och är en väsentlig del av hur git fungerar.
 
-![Untitled](img/git-intro/Untitled-1.png)
+![Untitled](../img/git-intro/Untitled-1.png)
 
 Dessa pointers är unidirectional. Barnen pekar på sina föräldrar, men föräldrarna har inget SHA som pekar på dess barn.
 
