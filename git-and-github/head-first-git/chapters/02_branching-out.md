@@ -1,4 +1,5 @@
-#Branching Out
+# Branching Out
+
 Branches tillåter dig att arbeta på flera olika disconnected pieces of work samtidigt på samma kodbas, oberoende utav varandra.
 
 När vi arbetar på en branch så är våra commits sekventiella, dom radas upp på varandra.
@@ -13,17 +14,16 @@ Därför behöver du skapa ytterligare en ny separat branch, där du bara förs�
 
 För commit radas upp på varandra och du kan inte bara välja att pusha din senaste commit.
 
-> **En commit representerar en punkt i tiden.
-> En branch representerar ett flertal commits.**
+> **En commit representerar en punkt i tiden.**
+
+> **En branch representerar ett flertal commits.**
 
 Så branches är olika commit histories, inom samma repository.
 En branch är bara en pointer till commits.
 
 Och commits är bara en snapshot av allt du har lagt till i index, tillsammans med massa metadata och commit message. I andra ord, en commit minns staten av din Index när du gjorde din commit.
 
-<aside style="background-color: hsl(144, 5%, 82%); padding: 0 20px 20px; margin: 20px; font-size: 16px; font-weight: 500;">
-💡 “Every time you switch branches, Git rewrites your working directory to look like it did when you made the most recent commit on the branch you just switched to.”
-</aside>
+> 💡 “Every time you switch branches, Git rewrites your working directory to look like it did when you made the most recent commit on the branch you just switched to.”
 
 ---
 
