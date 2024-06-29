@@ -50,7 +50,7 @@ Dessa pointers är unidirectional. Barnen pekar på sina föräldrar, men förä
 
 Hur som haver så finns det inget som hindrar en parent ifrån att ha flera olika direkta barn, eller ett barn ha flera föräldrar.
 
-Sammanfattningsvis:
+## Sammanfattningsvis:
 
 En helt ny fil är untracked - git vet inte om denna.
 
