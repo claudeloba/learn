@@ -1,3 +1,3 @@
 # Head First Git
 
-[Git Intro](chapters/git-intro.md)
+[Git Intro](chapters/01_git-intro.md)
