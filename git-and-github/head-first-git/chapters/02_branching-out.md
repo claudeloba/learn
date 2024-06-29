@@ -25,8 +25,6 @@ Och commits är bara en snapshot av allt du har lagt till i index, tillsammans m
 
 > 💡 “Every time you switch branches, Git rewrites your working directory to look like it did when you made the most recent commit on the branch you just switched to.”
 
----
-
 ### Merging:
 
 Vi kan se branches som en bra tv-serie. Den har en main plot, men grenar ibland ut till små mini-historier, för att sedan knyta ihop allt igen till vår main plot.
