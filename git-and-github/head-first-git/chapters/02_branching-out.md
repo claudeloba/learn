@@ -49,10 +49,9 @@ Vid en tidpunkt så vill vi mixa ihop dessa två. Här hade vår tårtbotten var
 
 Översätter vi detta till git så ser det ut såhär:
 
-Vi har två branches:
+***Vi har två branches:***
 
 **`*bake-cake`**
-
 `prepare-icing`
 
 Vi är färdiga med båda branches, så vi hoppar över till bake-cake, här använder vi sedan kommandot **`git merge prepare-icing`** för att mergea prepare-icing till bake-cake.
