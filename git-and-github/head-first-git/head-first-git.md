@@ -17,3 +17,5 @@
 8. [HEAD](chapters/08_head.md)
 
 9. [Reset](chapters/09_reset.md)
+
+10. [Revert](chapters/10_revert.md)
