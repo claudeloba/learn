@@ -13,3 +13,7 @@
 6. [Investigating your git repo](chapters/06_investigating.md)
 
 7. [Fixing your mistakes](chapters/07_fixing_your_mistakes.md)
+
+8. [HEAD](chapters/08_head.md)
+
+9. [Reset](chapters/09_reset.md)
