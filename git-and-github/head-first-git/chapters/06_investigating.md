@@ -52,13 +52,13 @@ För kontext så ger den oss starting line number 1, och hur många rader som up
 
 Vi får även med närliggande text för att se hur denna kod passar in i helheten.
 
-![Untitled](../img/investigating-your-git-repo/Untitled2.png)
+![Untitled](../img/investigating-your-git-repo/Untitled1.png)
 
 Vi kan använda flags för att få git diff mer intuitivt.
 
 En populär flagga är `--word-diff` detta uppvisar orden som har förändrats sida vid sida, ifall det är så att det är en rad som har förändrats.
 
-![Untitled](../img/investigating-your-git-repo/Untitled3.png)
+![Untitled](../img/investigating-your-git-repo/Untitled2.png)
 
 ### Working Dir vs. Index | Index vs. Last Commit
 
