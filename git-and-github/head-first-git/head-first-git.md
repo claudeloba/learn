@@ -11,3 +11,5 @@
 5. [Delete a branch](chapters/05_delete-a-branch.md)
 
 6. [Investigating your git repo](chapters/06_investigating.md)
+
+7. [Fixing your mistakes](chapters/07_fixing_your_mistakes.md)
