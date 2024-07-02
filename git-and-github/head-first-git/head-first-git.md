@@ -19,3 +19,5 @@
 9. [Reset](chapters/09_reset.md)
 
 10. [Revert](chapters/10_revert.md)
+
+11. [Collaborating with Git](chapters/11_collaborating-with-git.md)
