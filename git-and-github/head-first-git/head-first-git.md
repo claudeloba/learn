@@ -21,3 +21,5 @@
 10. [Revert](chapters/10_revert.md)
 
 11. [Collaborating with Git](chapters/11_collaborating-with-git.md)
+
+12. [Collaborating with Git pt. 2](chapters/11_collaborating-with-git-pt2.md)
